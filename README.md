@@ -1,2 +1,2 @@
 # Assignment1OfPython
-Name: Maaz Arif Shaikh CO B 4
+Name: Maaz Dept: CO-B Batch: 4
